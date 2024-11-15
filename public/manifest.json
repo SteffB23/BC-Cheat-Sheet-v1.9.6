@@ -1,0 +1,17 @@
+{
+  "name": "BC Cheat Sheet",
+  "short_name": "BC Cheat",
+  "description": "Your comprehensive resource for behavioral consultation tools and guidelines",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1E40AF",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}
